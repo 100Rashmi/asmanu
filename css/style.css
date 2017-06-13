@@ -928,6 +928,11 @@ button.btn1:hover i.fa.fa-paper-plane-o{
     height: 400px;
 	margin-bottom:-6px;
 }
+.client {
+    margin: 2em 0 0 0;
+}
+
+	
 /*-- //map --*/
 /*-- contact --*/
 .address {
