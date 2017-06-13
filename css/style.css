@@ -934,11 +934,13 @@ button.btn1:hover i.fa.fa-paper-plane-o{
 .client-grids {
     padding: 0;
 }
-.client p {
-    margin: 0 0 .3em 0;
-    color: #FFA07A;
-    font-size: .11em;
-    line-height: 2.5em;
+.client p{
+    color: #FF4500;
+    font-size: 1em;
+    font-weight: 800;
+    margin: 0 0 2em 0;
+    text-transform: uppercase;
+
 }
 	
 /*-- //map --*/
